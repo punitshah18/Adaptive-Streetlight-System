@@ -1,6 +1,3 @@
-// Header file for ece198.c
-
-// Written by Bernie Roehl, July 2021
 
 #include "stm32f4xx_hal.h"
 
