@@ -1,7 +1,3 @@
-// Support routines for ECE 198 (University of Waterloo)
-
-// Written by Bernie Roehl, July 2021
-
 #include <stdbool.h>  // for bool datatype
 
 #include "ece198.h"
